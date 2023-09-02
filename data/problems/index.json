@@ -1,0 +1,48 @@
+{
+  "database": [
+    {
+      "name": "demo",
+      "index": -20
+    },
+    {
+      "name": "judge",
+      "index": -10
+    },
+    {
+      "name": "long_ans",
+      "index": -5
+    },
+    {
+      "name": "blanking",
+      "index": 0
+    },
+    {
+      "name": "multi",
+      "index": 0
+    },
+    {
+      "name": "blanking copy",
+      "index": 0
+    },
+    {
+      "name": "multi copy",
+      "index": 0
+    },
+    {
+      "name": "blanking copy 2",
+      "index": 0
+    },
+    {
+      "name": "multi copy 2",
+      "index": 0
+    },
+    {
+      "name": "blanking copy 3",
+      "index": 0
+    },
+    {
+      "name": "multi copy 3",
+      "index": 0
+    }
+  ]
+}

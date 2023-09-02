@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d0248"],{"675f":function(e,n,l){"use strict";l.r(n);var r=function(){var e=this,n=e.$createElement,l=e._self._c||n;return l("el-card",[l("span",[e._v("开发中,此处放一个题目选择框")])])},t=[],a={name:"ProblemOverview"},c=a,u=l("2877"),s=Object(u["a"])(c,r,t,!1,null,null,null);n["default"]=s.exports}}]);
